@@ -1,0 +1,44 @@
+{
+    "cameras": [], 
+    "meshes": [
+        {
+            "name": "akali_transformAkali_nurse.mesh", 
+            "skeleton": false, 
+            "textures": {
+                "": [], 
+                "AmbientColor": [], 
+                "AmbientFactor": [], 
+                "Bump": [], 
+                "DiffuseColor": [
+                    "akali_nurse_TX_CM.png"
+                ], 
+                "DiffuseFactor": [], 
+                "DisplacementColor": [], 
+                "EmissiveColor": [], 
+                "EmissiveFactor": [], 
+                "NormalMap": [], 
+                "TransparencyFactor": [], 
+                "TransparentColor": [], 
+                "VectorDisplacementColor": []
+            }, 
+            "transform": [
+                1.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                1.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                1.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                1.0
+            ]
+        }
+    ]
+}

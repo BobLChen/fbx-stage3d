@@ -1,0 +1,130 @@
+{
+    "cameras": [], 
+    "meshes": [
+        {
+            "name": "nvhai_boo1.mesh", 
+            "skeleton": false, 
+            "textures": {
+                "AmbientColor": [], 
+                "AmbientFactor": [], 
+                "Bump": [], 
+                "DiffuseColor": [
+                    "b001.jpg"
+                ], 
+                "DiffuseFactor": [], 
+                "DisplacementColor": [], 
+                "EmissiveColor": [], 
+                "EmissiveFactor": [], 
+                "NormalMap": [], 
+                "ReflectionColor": [], 
+                "ReflectionFactor": [], 
+                "ShininessExponent": [], 
+                "SpecularColor": [], 
+                "SpecularFactor": [], 
+                "TransparencyFactor": [], 
+                "TransparentColor": [], 
+                "VectorDisplacementColor": []
+            }, 
+            "transform": [
+                1.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                1.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                1.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0, 
+                1.0
+            ]
+        }, 
+        {
+            "name": "nvhai__weapon01.mesh", 
+            "skeleton": false, 
+            "textures": {
+                "AmbientColor": [], 
+                "AmbientFactor": [], 
+                "Bump": [], 
+                "DiffuseColor": [], 
+                "DiffuseFactor": [], 
+                "DisplacementColor": [], 
+                "EmissiveColor": [], 
+                "EmissiveFactor": [], 
+                "NormalMap": [], 
+                "ReflectionColor": [], 
+                "ReflectionFactor": [], 
+                "ShininessExponent": [], 
+                "SpecularColor": [], 
+                "SpecularFactor": [], 
+                "TransparencyFactor": [], 
+                "TransparentColor": [], 
+                "VectorDisplacementColor": []
+            }, 
+            "transform": [
+                0.07451107872546356, 
+                -0.9737012541710883, 
+                -0.21529994667935215, 
+                0.0, 
+                -0.9951480553684852, 
+                -0.08651399985639885, 
+                0.04686131137321332, 
+                0.0, 
+                -0.06425529517613668, 
+                0.21076343656443802, 
+                -0.9754231713041379, 
+                0.0, 
+                4.880078764083663, 
+                18.802457225150786, 
+                0.012467348658404376, 
+                1.0
+            ]
+        }, 
+        {
+            "name": "nvhai__weapon00.mesh", 
+            "skeleton": false, 
+            "textures": {
+                "AmbientColor": [], 
+                "AmbientFactor": [], 
+                "Bump": [], 
+                "DiffuseColor": [], 
+                "DiffuseFactor": [], 
+                "DisplacementColor": [], 
+                "EmissiveColor": [], 
+                "EmissiveFactor": [], 
+                "NormalMap": [], 
+                "ReflectionColor": [], 
+                "ReflectionFactor": [], 
+                "ShininessExponent": [], 
+                "SpecularColor": [], 
+                "SpecularFactor": [], 
+                "TransparencyFactor": [], 
+                "TransparentColor": [], 
+                "VectorDisplacementColor": []
+            }, 
+            "transform": [
+                -0.09802353094911356, 
+                -0.9216975546833889, 
+                -0.3753198112629248, 
+                0.0, 
+                0.982265137385515, 
+                -0.15017686956047277, 
+                0.1122577804322574, 
+                0.0, 
+                -0.15983202033116378, 
+                -0.35765957608864507, 
+                0.9200723904847936, 
+                0.0, 
+                -4.5026600472921645, 
+                19.009664448468758, 
+                0.23036801240693672, 
+                1.0
+            ]
+        }
+    ]
+}
